@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VitExMachina
-- 👀 I’m interested in: psychology, biology and neuroscience and orthopaedics.
+- 👋 Hi, I’m @Chadric Garrick
+- 👀 I’m interested in: psychology, biology, neuroscience and orthopaedics.
 - 🌱 I’m currently learning: python
-- 📫 How to reach me:chadricg@seas.upenn.edu
+- 📫 How to reach me:garrickchadric@gmail.com
 
 <!---
 VitExMachina/VitExMachina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
